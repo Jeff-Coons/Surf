@@ -33,7 +33,7 @@ a {
   margin: 0;
 }
 
-/* ----- Header Section ----- */
+/* ========== Header Section ========== */
 
 .header {
   height: 525px;
@@ -94,9 +94,9 @@ a {
   vertical-align: top;
   margin-top: 18px;
   margin-right: 15px;
-}
+}*/
 
-#header-img {
+.header-img {
   position: absolute;
   top: 0;
   right: 0;
@@ -129,7 +129,7 @@ a {
   z-index: 2;
 }
 
-/* ----- Bolg Section ----- */
+/* ========== Bolg Section ========== */
 
 .main-body {
   width: 620px;
@@ -373,7 +373,7 @@ blockquote {
   display: inline-block;
 }
 
-/* ----- Sidebar ----- */
+/* ========== Sidebar ========== */
 
 .sidebar {
   width: 278px;
@@ -500,7 +500,7 @@ blockquote {
   margin-top: 0;
 }
 
-/* ----- Footer Section ----- */
+/* ========== Footer Section ========== */
 
 .titles p {
   text-align: center;
